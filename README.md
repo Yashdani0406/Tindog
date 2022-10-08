@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog 
+
+Made using html and css(bootstrap)
